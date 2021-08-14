@@ -2,7 +2,7 @@
 
 **InstagramAndroid-Clone** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The camera functionality was not working at first and was challenging to implement.
 
 ## Open-source libraries used
 
@@ -42,7 +42,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Rachel Field]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
